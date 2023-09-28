@@ -1,1 +1,1 @@
-_harder, better, faster, stronger._
+_harder, better, faster, stronger_
